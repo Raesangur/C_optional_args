@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polymorphism", "polymorphism\polymorphism.vcxproj", "{2A826CC7-F521-4C82-B93C-1C175F575AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A826CC7-F521-4C82-B93C-1C175F575AF3}.Debug|x64.ActiveCfg = Debug|x64
+		{2A826CC7-F521-4C82-B93C-1C175F575AF3}.Debug|x64.Build.0 = Debug|x64
+		{2A826CC7-F521-4C82-B93C-1C175F575AF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A826CC7-F521-4C82-B93C-1C175F575AF3}.Debug|x86.Build.0 = Debug|Win32
+		{2A826CC7-F521-4C82-B93C-1C175F575AF3}.Release|x64.ActiveCfg = Release|x64
+		{2A826CC7-F521-4C82-B93C-1C175F575AF3}.Release|x64.Build.0 = Release|x64
+		{2A826CC7-F521-4C82-B93C-1C175F575AF3}.Release|x86.ActiveCfg = Release|Win32
+		{2A826CC7-F521-4C82-B93C-1C175F575AF3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A4BF522-3B18-40F1-9E9D-ADA78BE13DBA}
+	EndGlobalSection
+EndGlobal
