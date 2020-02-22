@@ -5,7 +5,8 @@
 
 static void foo(const char* message, uint8_t repeat)
 {
-    for (uint8_t i = 0; i < repeat; i++)
+    uint8_t i;
+    for (i = 0; i < repeat; i++)
     {
         printf("%s\n\r", message);
     }
