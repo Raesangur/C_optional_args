@@ -1,6 +1,8 @@
 #pragma once
 #include <stdint.h>
 
+#define FOO_DEFAULT_SIZE 5
+
 #define Foo(...)                \
 /* Open new scope              */{\
 /* Create stack variable       */    void* stack__; \
